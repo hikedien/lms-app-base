@@ -1,2 +1,0 @@
-# app-base
-App base
